@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846967199637",
+    "project_id": "loginsingup-48f99",
+    "storage_bucket": "loginsingup-48f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846967199637:android:695b16c3f6a4375aa7489c",
+        "android_client_info": {
+          "package_name": "com.placement.learningfirebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnz5dZD5nWg9ed8r3xablu27zTbahuQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
